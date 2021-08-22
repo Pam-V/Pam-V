@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pam-V
-- 👀 I’m interested in Data Science, Health Science, epigenetics, human anthropolgy, inking, novels and 20th century history books!
+- 👀 I’m interested in Data Science, Health Science, epigenetics, human anthropology, astronomy (amateur of course), inking, novels and 20th century history!
 - 🌱 I’m currently learning Health Science and R programming
-- 💞️ I’m looking to collaborate on ... ?
+- 💞️ I’m looking to collaborate on ... learning for now please
 - 📫 How to reach me ... let's keep this empty for now
 
 <!---
